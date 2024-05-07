@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T13:45:48.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.1" etag="ZnCxOQrAExY6fiBdllc4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T13:33:39.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="OHUFhoWqLJ00XibZR4_7" version="24.3.0" type="github">
   <diagram name="Página-1" id="zTDeU-32QjPhxjjY8Quo">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bRfUs7VRXxmoNC7rNjcf-1" value="LLANTAS" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="480" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="bRfUs7VRXxmoNC7rNjcf-2" value="ANCLA" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="480" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="bRfUs7VRXxmoNC7rNjcf-3" value="MOTOR" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="480" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="bRfUs7VRXxmoNC7rNjcf-7" value="VEHICULO" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="69" y="240" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="bRfUs7VRXxmoNC7rNjcf-10" value="MARCA:&lt;div&gt;COLOR:&lt;/div&gt;&lt;div&gt;MODELO:&lt;/div&gt;&lt;div&gt;AÑO:&lt;/div&gt;&lt;div&gt;TAMAÑO:&lt;/div&gt;&lt;div&gt;CAPACIDAD:&lt;/div&gt;&lt;div&gt;VELOCIDAD:&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="bRfUs7VRXxmoNC7rNjcf-7">
+          <mxGeometry x="50" y="55" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bRfUs7VRXxmoNC7rNjcf-8" value="AVION" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="559" y="240" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="bRfUs7VRXxmoNC7rNjcf-11" value="MARCA:&lt;div&gt;COLOR:&lt;/div&gt;&lt;div&gt;MODELO:&lt;/div&gt;&lt;div&gt;AÑO:&lt;/div&gt;&lt;div&gt;TAMAÑO:&lt;/div&gt;&lt;div&gt;CAPACIDAD:&lt;/div&gt;&lt;div&gt;VELOCIDAD:&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="bRfUs7VRXxmoNC7rNjcf-8">
+          <mxGeometry x="51" y="55" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bRfUs7VRXxmoNC7rNjcf-9" value="BARCO" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="240" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="bRfUs7VRXxmoNC7rNjcf-12" value="MARCA:&lt;div&gt;COLOR:&lt;/div&gt;&lt;div&gt;MODELO:&lt;/div&gt;&lt;div&gt;AÑO:&lt;/div&gt;&lt;div&gt;TAMAÑO:&lt;/div&gt;&lt;div&gt;CAPACIDAD:&lt;/div&gt;&lt;div&gt;VELOCIDAD:&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="bRfUs7VRXxmoNC7rNjcf-9">
+          <mxGeometry x="50" y="55" width="100" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
